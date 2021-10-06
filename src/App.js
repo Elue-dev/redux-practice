@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <FrozenDept/>
-      {/* <MeatDept/> */}
+      <MeatDept/>
       <ProduceDept/>
     </div>
   );

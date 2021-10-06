@@ -10,7 +10,6 @@ export class FrozenDept extends Component {
                 </div>
             )
         })
-        console.log(connect)
         return (
             <div>
                 <h1>This is the Frozen Department!</h1>
